@@ -1,0 +1,50 @@
+[
+  {
+    "id_product": 1,
+    "product_name": "Lamp",
+    "price": 1000,
+    "img": "images\\product-1.jpg"
+  },
+  {
+    "id_product": 2,
+    "product_name": "Armchair",
+    "price": 4000,
+    "img": "images\\product-2.jpg"
+  },
+  {
+    "id_product": 3,
+    "product_name": "Jug",
+    "price": 900,
+    "img": "images\\product-3.jpg"
+  },
+  {
+    "id_product": 4,
+    "product_name": "Chair",
+    "price": 3000,
+    "img": "images\\product-4.jpg"
+  },
+  {
+    "id_product": 5,
+    "product_name": "Sconce",
+    "price": 1200,
+    "img": "images\\product-5.jpg"
+  },
+  {
+    "id_product": 6,
+    "product_name": "Sofa",
+    "price": 7700,
+    "img": "images\\product-6.jpg"
+  },
+  {
+    "id_product": 7,
+    "product_name": "Clock",
+    "price": 2100,
+    "img": "images\\product-7.jpg"
+  },
+  {
+    "id_product": 8,
+    "product_name": "Chandelier",
+    "price": 3000,
+    "img": "images\\product-8.jpg"
+  }
+]
